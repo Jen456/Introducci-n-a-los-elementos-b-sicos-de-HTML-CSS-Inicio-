@@ -1,0 +1,20 @@
+div{
+  font-family: fantasy;
+	padding: 20px;
+	border-radius: 10px;
+	border: 10px solid #610B38;
+}
+p { color: red;
+font-family:Courier;
+font-size:20px;
+}
+
+li {
+		color: yellow  ;
+		font-weight: bold;
+}
+
+h1 {
+		color: pink  ;
+		font-weight: bold;
+}
